@@ -36,7 +36,7 @@ features                                  :
     fontawesome_icon_name                 : book-reader
     
   - title                                 : Raggiungi l'obiettivo
-    description                           : Obiettivo finale: non peccare in nessuna categoria e superare il test con successo!
+    description                           : "Obiettivo finale: non peccare in nessuna categoria e superare il test con successo!"
     fontawesome_icon_name                 : bullseye
 
   - title                                 : Continuo aggiornamento
